@@ -14,5 +14,8 @@ This repository is for showing how Git and GitHub work
 ##Git compparision
 We are comparing the two files of stages
 
+## contribution
+Fork the repo and raise pull request for review
+
 ##GitHub Content
 Comparision with Repo
