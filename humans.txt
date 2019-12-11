@@ -5,7 +5,8 @@
 
     Swathi Bade
 	swathi0926@gmail.com
-	software engineer
+	software engineer python developer
+	
 
 # THANKS
 
@@ -15,4 +16,5 @@
 
     HTML5, CSS3 , Angular
     jQuery, Modernizr , Azex
+	Docker, Java programing,python
 	
