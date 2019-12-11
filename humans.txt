@@ -3,7 +3,9 @@
 
 # TEAM
 
-    <name> -- Swathi Bade -- <twitter>
+    Swathi Bade
+	swathi0926@gmail.com
+	software engineer
 
 # THANKS
 
