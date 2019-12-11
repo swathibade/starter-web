@@ -14,5 +14,5 @@
 # TECHNOLOGY COLOPHON
 
     HTML5, CSS3 , Angular
-    jQuery, Modernizr , Azex
+    jQuery, Modernizr , Machine learning,AWS,Google cloud
 	
