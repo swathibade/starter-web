@@ -8,6 +8,7 @@
   Doing somechanges in local
 
   Going to insert confilcts and my feature branch develop
+  Ading important notes on git status
 
 
 # TEAM
