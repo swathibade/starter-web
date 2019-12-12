@@ -1,7 +1,11 @@
 # humanstxt.org/
 # The humans responsible & technology colophon
 
+
   Hi, I am modifying gile before rebase
+  Going to insert confilcts and my feature branch develop
+
+>>>>>>> Added conflicts in feature branch
 # TEAM
 
     Swathi Bade
